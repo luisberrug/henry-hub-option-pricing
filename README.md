@@ -2,8 +2,6 @@
 
 Master's thesis on pricing European plain-vanilla options on Henry Hub natural-gas futures with a volatility specification designed to reproduce hump-shaped mid-tenor variance patterns.
 
-Published with the author's consent. The thesis reports results derived from Eikon Refinitiv market data; no raw licensed dataset is included in this repository.
-
 ## Contribution
 
 The thesis develops a commodity-futures term-structure model that preserves lognormal futures-price dynamics while enriching the deterministic volatility function. The resulting specification is designed to capture hump-shaped behavior observed in natural-gas markets.
